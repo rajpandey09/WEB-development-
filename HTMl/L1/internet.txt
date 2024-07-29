@@ -1,0 +1,11 @@
+How internet works?
+1)client
+2)Browser
+3)Server
+
+client will send the request to browser to give the requirement for example youtube.com.
+so browser will go to youtube server ask for the demand if available it take from there
+and give it to client 
+
+for example: in a restaurant hum waiter ko order dete hai vo kitchen me jata hai aur vaha
+se order le aata hai lekin kabhi kabhi order unavailable bhi hota hai.like 404 error

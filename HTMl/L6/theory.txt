@@ -1,0 +1,11 @@
+SEO and CORE WEB VITALS in html
+we can use lighthouse to check our website score and improvement area and also view section to see how our web look in different screen
+they are basically focus on neat and good practices of code 
+Core web VITALS
+3 parts 
+1)cumulative layout shift
+ye kam se kam hona chahiye iska matlab ki website pe load hone pe kitna shift ho rhi hai like order cancel agar cls jada hai toh cancel ki jagah order ho pe click ho jayega
+2)largest contextual paint
+sabse bada dikne wala element kitni der me load ho raha ha good score is 2.5s
+3)first input delay
+koi bhi click kitni der me process karta hai score less 100milliseconds

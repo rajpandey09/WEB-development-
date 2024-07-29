@@ -1,0 +1,3 @@
+//action ke andar do type hai get and post get matlab database ko koi small data
+inform krna where post is sending a big data to database new space dene ke liye
+br tag hota hai but best is to use div tag it is good practice
